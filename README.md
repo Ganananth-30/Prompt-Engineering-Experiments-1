@@ -97,7 +97,9 @@ compressed in the optional Latent Space, and finally new content is produced in 
 Applications span text generation (chatbots, translation), image generation (art, medical imaging), audio
 (voice assistants, music), software development (code generation), and healthcare (drug discovery).
 
-<img width="1280" height="828" alt="{34F8B242-3EAD-459B-B837-5BE2F46563A3}" src="https://github.com/user-attachments/assets/03401b5d-080e-4a81-8e5e-b7d239771c8b" />
+<img width="1148" height="686" alt="image" src="https://github.com/user-attachments/assets/0e81ee3c-78f4-46c4-a14c-d7d8b35e3d78" />
+
+
 
 4. Generative AI Architectures (Like Transformers)
 Modern Generative AI relies on several architectural families. Transformers are the dominant
