@@ -1,4 +1,4 @@
-<img width="1298" height="837" alt="image" src="https://github.com/user-attachments/assets/f7131e10-cc36-4d29-b796-6e804b161cc5" /><img width="1298" height="837" alt="image" src="https://github.com/user-attachments/assets/afd4033b-370b-42f5-8d0f-8ffbef3e3fb9" /># Prompt-Engineering-Experiments-1
+# Prompt-Engineering-Experiments-1
 # Name : H GANANANTH
 # Register No : 212225230070
 # Date : 21.04.2026
